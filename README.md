@@ -117,23 +117,3 @@ Open [Termux](https://play.google.com/store/apps/details?id=com.termux)
 `chmod +x darkarmy.py`
 
 `python2 darkarmy.py`
-
-  ## YouTube Demo :
-  https://youtu.be/7xvcBLsE6uo
-  
-  ## ScreenShot :
-
-<p align="center">
-  <img src="https://github.com/D4RK-4RMY/DARKARMY/blob/main/darkarmy.png" alt="darkarmy Logo"/>
-</p>  
-  
-  
-  ### Development By :
-
-Developer / Author: [1ucif3r](https://github.com/1ucif3r)
-
-### <h2 align="center">😈 Visit 😈 </h2>
-
-<p align="center">
-<a href="https://darkarmy.live/"><img title="D4RK4RMY" src="https://img.shields.io/badge/D4RK4RMY-%23E4405F.svg?&style=for-the-badge&logo=web&logoColor=white"></a>
-</p>
