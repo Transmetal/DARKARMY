@@ -92,7 +92,7 @@
 
 This Tool Must Run As ROOT !!!
 
-`git clone https://github.com/D4RK-4RMY/DARKARMY.git`
+`git clone https://github.com/Transmetal/DARKARMY`
 
 `cd DARKARMY`
 
@@ -110,7 +110,7 @@ Open [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 `pkg install python`
 
-`git clone https://github.com/D4RK-4RMY/DARKARMY.git`
+`git clone https://github.com/Transmetal/DARKARMY`
 
 `cd DARKARMY`
 
